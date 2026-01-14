@@ -41,7 +41,7 @@ export default function Twin() {
 
         try {
             // With your API Gateway URL:
-            const response = await fetch('https://YOUR-API-ID.execute-api.us-east-1.amazonaws.com/chat', {
+                const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'}/chat`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
