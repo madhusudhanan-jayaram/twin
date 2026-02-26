@@ -1,0 +1,44 @@
+{
+  "full_name": "Madhusudhanan Jeyaram",
+  "name": "Madhu",
+  "current_role": "Principal Systems Engineer @ TCS | GenAI, LLM Platforms & Cloud-Native Banking Solutions",
+  "location": "Chennai, Tamil Nadu, India",
+  "email": "madhusudhanan.jayaram@gmail.com",
+  "linkedin": "linkedin.com/in/madhusudhanan-jeyaram",
+  "github": "github.com/madhusudhananjayaram",
+  "portfolio": "madhusudhanan.online",
+  "phone": "+91-7305099315",
+  "specialties": [
+    "GenAI & LLM Platforms",
+    "Cloud & Container Platforms (Kubernetes, OpenShift)",
+    "Microservices Architecture",
+    "DevSecOps & CI/CD",
+    "Technology Transformation",
+    "Team Management"
+  ],
+  "years_experience": 19,
+  "education": [
+    {
+      "degree": "Master of Computer Applications (MCA)",
+      "field": "Computer Science",
+      "institution": "SASTRA University",
+      "year": "2007 - 2011"
+    },
+    {
+      "degree": "Bachelor of Science (B.Sc)",
+      "field": "Computer Science",
+      "institution": "Madurai Kamaraj University",
+      "year": "2003 - 2006"
+    }
+  ],
+  "certifications": [
+    "Lean Six Sigma White Belt Certification",
+    "Google Cyber Security"
+  ],
+  "languages": [
+    "Tamil",
+    "English"
+  ],
+  "current_employer": "Tata Consultancy Services",
+  "current_client": "Citi Bank"
+}
